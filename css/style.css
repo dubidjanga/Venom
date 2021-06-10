@@ -78,10 +78,10 @@ body {
 }
 .blood {
   background: url("../img/blood.png") no-repeat top right,
-    url("../img/background.jpg") no-repeat top center / 100%, #160b53;
+    url("../img/background.jpg") no-repeat top center / 100%, #14131a;
 }
 .primary-bg {
-  background: url("../img/background.jpg") no-repeat top center / 100%, #160b53;
+  background: url("../img/background.jpg") no-repeat top center / 100%, #14131a;
 }
 .content {
   display: flex;
